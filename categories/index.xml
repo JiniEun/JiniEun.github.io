@@ -5,6 +5,25 @@
     <link>https://JiniEun.github.io/categories/</link>
     <description>Recent content in Categories on jinieun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://JiniEun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Mar 2022 18:32:01 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>category</title>
+      <link>https://JiniEun.github.io/categories/category/</link>
+      <pubDate>Wed, 23 Mar 2022 18:32:01 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subcategory</title>
+      <link>https://JiniEun.github.io/categories/subcategory/</link>
+      <pubDate>Wed, 23 Mar 2022 18:32:01 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/categories/subcategory/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

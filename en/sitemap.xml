@@ -2,6 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://JiniEun.github.io/categories/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-kr"
+                href="https://JiniEun.github.io/pt-kr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://JiniEun.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://JiniEun.github.io/categories/category/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+  </url><url>
+    <loc>https://JiniEun.github.io/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-kr"
+                href="https://JiniEun.github.io/pt-kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://JiniEun.github.io/"
+                />
+  </url><url>
+    <loc>https://JiniEun.github.io/posts/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+  </url><url>
+    <loc>https://JiniEun.github.io/categories/subcategory/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+  </url><url>
+    <loc>https://JiniEun.github.io/tags/tag1/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+  </url><url>
+    <loc>https://JiniEun.github.io/tags/tag2/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+  </url><url>
+    <loc>https://JiniEun.github.io/tags/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-kr"
+                href="https://JiniEun.github.io/pt-kr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://JiniEun.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://JiniEun.github.io/posts/test/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+  </url><url>
     <loc>https://JiniEun.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -14,30 +71,6 @@
                 href="https://JiniEun.github.io/authors/"
                 />
   </url><url>
-    <loc>https://JiniEun.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-kr"
-                href="https://JiniEun.github.io/pt-kr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://JiniEun.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://JiniEun.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-kr"
-                href="https://JiniEun.github.io/pt-kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://JiniEun.github.io/"
-                />
-  </url><url>
     <loc>https://JiniEun.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,18 +81,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://JiniEun.github.io/series/"
-                />
-  </url><url>
-    <loc>https://JiniEun.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-kr"
-                href="https://JiniEun.github.io/pt-kr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://JiniEun.github.io/tags/"
                 />
   </url>
 </urlset>
