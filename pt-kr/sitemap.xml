@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://JiniEun.github.io/pt-kr/about/</loc>
+    <lastmod>2022-03-25T00:32:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://JiniEun.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-kr"
+                href="https://JiniEun.github.io/pt-kr/about/"
+                />
+  </url><url>
     <loc>https://JiniEun.github.io/pt-kr/authors/</loc>
     <xhtml:link
                 rel="alternate"

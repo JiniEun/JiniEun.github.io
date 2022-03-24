@@ -6,7 +6,16 @@
     <description>Recent content in Posts on jinieun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Mar 2022 18:32:01 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 01:17:03 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test1</title>
+      <link>https://JiniEun.github.io/posts/test1/</link>
+      <pubDate>Fri, 25 Mar 2022 01:17:03 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/posts/test1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://JiniEun.github.io/posts/test/</link>
