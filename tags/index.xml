@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on EunJin</title>
+    <title>Tags on Jin</title>
     <link>https://JiniEun.github.io/tags/</link>
-    <description>Recent content in Tags on EunJin</description>
+    <description>Recent content in Tags on Jin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
-    <lastBuildDate>Wed, 23 Mar 2022 18:32:01 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 00:41:32 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Front</title>
+      <link>https://JiniEun.github.io/tags/front/</link>
+      <pubDate>Sat, 26 Mar 2022 00:41:32 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/tags/front/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://JiniEun.github.io/tags/react/</link>
+      <pubDate>Sat, 26 Mar 2022 00:41:32 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://JiniEun.github.io/tags/web/</link>
+      <pubDate>Sat, 26 Mar 2022 00:41:32 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tag1</title>
       <link>https://JiniEun.github.io/tags/tag1/</link>

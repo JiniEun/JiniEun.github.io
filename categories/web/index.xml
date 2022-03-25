@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on Jin</title>
+    <link>https://JiniEun.github.io/categories/web/</link>
+    <description>Recent content in web on Jin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr</language>
+    <lastBuildDate>Sat, 26 Mar 2022 00:41:32 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dipex</title>
+      <link>https://JiniEun.github.io/projects/dipex/</link>
+      <pubDate>Sat, 26 Mar 2022 00:41:32 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/projects/dipex/</guid>
+      <description>📌 2019-2 Capstone-DesignDipex
+비디오 플레이어를 포함한 간단한 웹 페이지 제작 스크립트를 포함한 페이지</description>
+    </item>
+    
+  </channel>
+</rss>
