@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://JiniEun.github.io/projects/</loc>
+    <lastmod>2022-03-26T00:49:03+09:00</lastmod>
+  </url><url>
     <loc>https://JiniEun.github.io/contact/</loc>
     <lastmod>2022-03-25T23:41:52+09:00</lastmod>
   </url><url>
@@ -39,10 +42,6 @@
     <lastmod>2022-03-23T18:32:01+09:00</lastmod>
   </url><url>
     <loc>https://JiniEun.github.io/authors/</loc>
-  </url><url>
-    <loc>https://JiniEun.github.io/projects/dipex/</loc>
-  </url><url>
-    <loc>https://JiniEun.github.io/projects/</loc>
   </url><url>
     <loc>https://JiniEun.github.io/series/</loc>
   </url>
