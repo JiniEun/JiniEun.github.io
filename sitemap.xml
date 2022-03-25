@@ -2,38 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://JiniEun.github.io/categories/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/projects/dipex/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/tags/front/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/projects/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/categories/projects/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/tags/react/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/tags/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/tags/web/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
-    <loc>https://JiniEun.github.io/categories/web/</loc>
-    <lastmod>2022-03-26T00:41:32+09:00</lastmod>
-  </url><url>
     <loc>https://JiniEun.github.io/contact/</loc>
     <lastmod>2022-03-25T23:41:52+09:00</lastmod>
+  </url><url>
+    <loc>https://JiniEun.github.io/</loc>
+    <lastmod>2022-03-25T01:17:03+09:00</lastmod>
   </url><url>
     <loc>https://JiniEun.github.io/posts/</loc>
     <lastmod>2022-03-25T01:17:03+09:00</lastmod>
@@ -43,6 +16,9 @@
   </url><url>
     <loc>https://JiniEun.github.io/about/</loc>
     <lastmod>2022-03-25T00:32:51+09:00</lastmod>
+  </url><url>
+    <loc>https://JiniEun.github.io/categories/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
   </url><url>
     <loc>https://JiniEun.github.io/categories/category/</loc>
     <lastmod>2022-03-23T18:32:01+09:00</lastmod>
@@ -56,10 +32,17 @@
     <loc>https://JiniEun.github.io/tags/tag2/</loc>
     <lastmod>2022-03-23T18:32:01+09:00</lastmod>
   </url><url>
+    <loc>https://JiniEun.github.io/tags/</loc>
+    <lastmod>2022-03-23T18:32:01+09:00</lastmod>
+  </url><url>
     <loc>https://JiniEun.github.io/posts/test/</loc>
     <lastmod>2022-03-23T18:32:01+09:00</lastmod>
   </url><url>
     <loc>https://JiniEun.github.io/authors/</loc>
+  </url><url>
+    <loc>https://JiniEun.github.io/projects/dipex/</loc>
+  </url><url>
+    <loc>https://JiniEun.github.io/projects/</loc>
   </url><url>
     <loc>https://JiniEun.github.io/series/</loc>
   </url>
