@@ -6,7 +6,22 @@
     <description>Recent content in category on Jin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
-    <lastBuildDate>Wed, 23 Mar 2022 18:32:01 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 23:08:07 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github.io로 배포하는 Hugo 블로그 시작하기</title>
+      <link>https://JiniEun.github.io/posts/hugo_blog/</link>
+      <pubDate>Mon, 04 Apr 2022 23:08:07 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/posts/hugo_blog/</guid>
+      <description>Hugo 설치 설치  brew install hugo  버전 확인  hugo version → 출력 결과 : hugo v0.95.0+extended darwin/arm64 BuildDate=unknown
+→ 정상 설치
+Github repositoryblog
+.github.io
+두 개의 레포지토리 준비하기
+Hugo로 프로젝트 만들기 현재 위치 확인  출력결과로 현재 경로 확인
+$ pwd /Users/jules/Projects/Projects  hugo 프로젝트 생성  $ hugo new site blog # 생성 완료되면 아래 문구가 출력됨.</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://JiniEun.github.io/posts/test/</link>
