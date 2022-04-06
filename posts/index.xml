@@ -23,15 +23,6 @@ $ pwd /Users/jules/Projects/Projects  hugo 프로젝트 생성  $ hugo new site 
     </item>
     
     <item>
-      <title>test1</title>
-      <link>https://JiniEun.github.io/posts/test1/</link>
-      <pubDate>Fri, 25 Mar 2022 01:17:03 +0900</pubDate>
-      
-      <guid>https://JiniEun.github.io/posts/test1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Test</title>
       <link>https://JiniEun.github.io/posts/test/</link>
       <pubDate>Wed, 23 Mar 2022 18:32:01 +0900</pubDate>
