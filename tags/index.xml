@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Jin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 04 Apr 2022 23:08:07 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 23:41:53 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NGINX</title>
+      <link>https://JiniEun.github.io/tags/nginx/</link>
+      <pubDate>Fri, 15 Apr 2022 23:41:53 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://JiniEun.github.io/tags/blog/</link>
