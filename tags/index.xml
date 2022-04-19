@@ -8,6 +8,25 @@
       <url>https://JiniEun.github.io/papermod-cover.png</url>
       <link>https://JiniEun.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://JiniEun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Apr 2022 22:43:31 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NGINX</title>
+      <link>https://JiniEun.github.io/tags/nginx/</link>
+      <pubDate>Tue, 19 Apr 2022 22:43:31 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://JiniEun.github.io/tags/web/</link>
+      <pubDate>Tue, 19 Apr 2022 22:43:31 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
