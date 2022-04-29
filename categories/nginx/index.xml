@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NGINX on Jin</title>
+    <link>https://JiniEun.github.io/categories/nginx/</link>
+    <description>Recent content in NGINX on Jin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 15 Apr 2022 23:41:53 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/categories/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[NGINX] NGINX란? NGINX 설치</title>
+      <link>https://JiniEun.github.io/posts/nginx/</link>
+      <pubDate>Fri, 15 Apr 2022 23:41:53 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/posts/nginx/</guid>
+      <description>[NGINX] NGINX란? NGINX 설치Nginx란? NginX란? 웹 서버 소프트웨어로, 가벼움과 높은 성능을 목표로 한다. 웹 서버, 리버스 프록시 및 메일 프록시 기능을 가진다. Nginx는 요청에 응답하기 위해 비동기 이벤트 기반 구조를 가지며, 이는 아파치 HTTP 서버의 스레드/프로세스 기반 구조를 가지는 것과는 대조적이다. 이러한 구조는 서버에 많은 부하가 생길 경우의 성능을 예측하기 쉽게 해준다. 출처: [위키백과]
+ 간단하게 말하면 경량 웹 서버이며, 클라이언트로부터 요청을 받았을 때 요청에 맞는 정적 파일을 응답해주는 HTTP Web Server로 활용되기도 하고, Reverse Proxy Server로 활용하여 WAS 서버의 부하를 줄일 수 있는 로드 밸런서로 활용되기도 한다.</description>
+    </item>
+    
+  </channel>
+</rss>
