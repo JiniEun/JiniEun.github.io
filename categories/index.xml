@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Jin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 15 Apr 2022 23:41:53 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 14:46:09 +0900</lastBuildDate><atom:link href="https://JiniEun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React</title>
+      <link>https://JiniEun.github.io/categories/react/</link>
+      <pubDate>Sun, 01 May 2022 14:46:09 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/categories/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>useEffect</title>
+      <link>https://JiniEun.github.io/categories/useeffect/</link>
+      <pubDate>Sun, 01 May 2022 14:46:09 +0900</pubDate>
+      
+      <guid>https://JiniEun.github.io/categories/useeffect/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>NGINX</title>
       <link>https://JiniEun.github.io/categories/nginx/</link>
